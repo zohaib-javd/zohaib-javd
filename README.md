@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Typescript & Python
 - 💞️ I’m looking to collaborate on https://github.com/zohaib-javd
 - 📫 How to reach me www.linkedin.com/in/zohaib-javd
-- 😄 Pronouns: He/Him
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: I have a profound love for biryani and have embarked on a quest to taste-test various types of this beloved dish from different regions, uncovering unique flavors and culinary traditions along the way! 🍛✨
 
 <!---
